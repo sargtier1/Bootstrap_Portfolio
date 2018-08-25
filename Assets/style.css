@@ -1,0 +1,65 @@
+
+/* Nav Bar Styles */
+
+#bg {
+    background-color:#d3d2d2b6;
+}
+
+#aboutme {
+    width: 200px;
+}
+
+.innerheader {
+    background-color: #ffffff;
+}
+
+h1{
+    background-color: #4aaaa5;
+    color:#ffffff;
+    padding: 5px;
+    margin: none;
+    height: 100%;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.btn.btn-default {
+    color: #cccccc;
+    padding-top:17.5px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+/* Section Styles */
+ div.card-header {
+    color: #4aaaa5;
+    font-size: 24px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+ }
+
+ p {
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+ }
+
+button.btn.btn-primary {
+    background-color:#4aaaa5;
+    border: none;
+}
+
+p.card-text {
+    background-color:#4aaaa5;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#footer{
+    background-color: #666666;
+    height: 50px;
+    color: #fff;
+ }
+
+ footer{
+    background-color: #4aaaa5;
+    height: 60px; 
+ }
